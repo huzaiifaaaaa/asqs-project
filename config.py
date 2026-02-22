@@ -1,6 +1,6 @@
 import time
 
-BASE_URL = "http://localhost:3000/#"
+BASE_URL = "https://juice-shop.herokuapp.com/#"
 SIGNUP_URL = f"{BASE_URL}/register"
 LOGIN_URL = f"{BASE_URL}/login"
 BASKET_URL = f"{BASE_URL}/basket"
